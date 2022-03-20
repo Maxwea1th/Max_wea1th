@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thund3rcoder
+- 👋 Hi, I’m Max
 - 👀 I’m interested in trading & investing
 - 🌱 I’m currently learning python
-- 📫 Reach me @maxWea1th
+- 📫 Reach me @Max_wea1th
 
 <!---
 thund3rcode/thund3rcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
